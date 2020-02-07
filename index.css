@@ -38,7 +38,7 @@ nav a.active{
     float: right;
     height: 662px;
     width: 800px;
-}/*
+}
 .section{
     background-color: rgb(5, 226, 255);
     padding: 40px;
@@ -46,7 +46,7 @@ nav a.active{
     margin-top: 10px;
     border-radius: 10px;
     padding-bottom: 170px;
-}
+}/*
 #home{
     justify-content: space-evenly;
 }
