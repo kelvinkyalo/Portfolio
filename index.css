@@ -1,4 +1,4 @@
-/* html{
+ html{
     margin: 0;
     padding: 0;
 }
@@ -9,7 +9,7 @@ body{
    padding: 10px;
    margin: 0;
 }
-header{
+/*header{
     position: fixed;
     background-color: papayawhip;
     width: 99%;
