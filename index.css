@@ -33,12 +33,12 @@ nav a:hover{
 nav a.active{
     background-color: darkgray;
     color: white;
-}/*
+}
 #one{
     float: right;
     height: 662px;
     width: 800px;
-}
+}/*
 .section{
     background-color: rgb(5, 226, 255);
     padding: 40px;
