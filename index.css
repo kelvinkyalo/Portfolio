@@ -14,7 +14,7 @@ header{
     background-color: papayawhip;
     width: 99%;
     
-}/*
+}
 nav{
   text-align: center;
       
@@ -33,7 +33,7 @@ nav a:hover{
 nav a.active{
     background-color: darkgray;
     color: white;
-}
+}/*
 #one{
     float: right;
     height: 662px;
