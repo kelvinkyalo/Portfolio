@@ -3,15 +3,15 @@
     padding: 0;
 }
 body{
-   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-   font-size: 15px;
+   font-family: 'Rochester', cursive;
+   font-size: 25px;
    background-color: rgb(245, 255, 240);
    padding: 10px;
    margin: 0;
 }
 header{
     position: fixed;
-    background-color: papayawhip;
+    background-color: rgb(127, 213, 235);
     width: 99%;
     
 }
