@@ -53,4 +53,7 @@ nav a.active{
 #home>#contacts{
     padding-top: 280px;
     line-height: 35px;
+}
+footer{
+    text-align: center;
 } 
