@@ -11,11 +11,11 @@
  CSS
  ### Project set-up instructions.
  This project was created using HTML and CSS only it is a onepage project with a working navigation bar with working links. This webpage can be accesed over any web browser.
- ### Link to gh-pages
+ ### Link to gh-pages.
  https://kelvinkyalo.github.io/Portfolio/
  #### Content information.
  MIT License
-Copyright (c) 2020 Ian Adika
+Copyright (c) 2020 Kelvin Kyalo
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
 in the Software without restriction, including without limitation the rights
